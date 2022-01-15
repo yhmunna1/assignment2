@@ -39,6 +39,7 @@ body{
     font-size: 16px;
     font-weight: 600px;
     line-height: 24px;
+    margin-bottom: 26px;
 }
 .hero-section a{
     text-decoration: none;
@@ -48,7 +49,6 @@ body{
     padding: 10px 24px;
     background-color: #E02C6D;
     border-radius: 41px;
-    
 }
 .hero-section a:hover{
     font-weight: 400;
